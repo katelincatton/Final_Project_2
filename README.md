@@ -1,2 +1,4 @@
 # Final_Project_2
 Team 2
+## The selected topic and the reasoning for that selection (Katelin)
+This project will analyze retail Sales, including product types, customer details, count of orders, etc. This topic was selected by group consensus that Sales was an interesting topic and has the ability to be predictable and forecasted. When examining sales, the dataset may suggest that certain products are more susceptible to lower sales. Retail sales is broad enough to leverage many processes such as SQL, Python, API lines, ETL, and much more; Which ultimately allowed for free range of manipulating the dataset to further the study. With many variables, product types, product colors, count of product purchased, customer details… the dataset is largely available for exploration of many questions and hypotheses.
